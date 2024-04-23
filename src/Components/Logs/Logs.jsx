@@ -34,7 +34,7 @@ const Logs = () => {
 				margin: "20px",
 				marginTop: "85px",
 				overflowY: "auto",
-				height: "89vh",
+				height: "85vh",
 				backgroundColor: "#010115"
 			}}>
 			{data && data.logs.map((log, index) => (
