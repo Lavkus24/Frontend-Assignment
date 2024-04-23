@@ -1,4 +1,4 @@
-<h1>Frontend</h1> 
+## Frontend-Assignment
 - Developed a web application using React.js, Material-UI, and FusionCharts.
 - Implemented a metrics dashboard with FusionCharts for visual data representation.
 - Styled the logs viewer using Material-UI components.
@@ -6,8 +6,8 @@
 - Included a user-friendly dropdown menu for data filtering and customization.
 
 **Technology Used** <br>
-- ReactJs
-- Material Ui
+- React Js
+- Material UI
 - Fusion Chart
 
 **Features** <br>
