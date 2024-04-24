@@ -22,3 +22,6 @@
 - Click "Logs" in the navigation bar to view log entries styled with Material-UI.
 - Each log entry includes a timestamp, log level, and message.
 - Use the scrollbar in the logs section to navigate through entries if needed.
+
+**Deployment**
+- View the deployed application [here] https://truefoundry-frontend-assignmenm.netlify.app/.
