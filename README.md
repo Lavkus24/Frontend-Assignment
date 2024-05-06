@@ -24,4 +24,4 @@
 - Use the scrollbar in the logs section to navigate through entries if needed.
 
 **Deployment**
-- View the deployed application [here] https://truefoundry-frontend-assignmenm.netlify.app/.
+- View the deployed application [here] https://metric-log-fusionchart.netlify.app/
